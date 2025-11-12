@@ -1,6 +1,6 @@
 # Matthew Febbraro
 
-**Email:** aetherpulse.one@protonmail.com  
+**Email:** aetherpulse.one@gmail.com  
 **Location:** London, Ontario, Canada  
 **GitHub:** https://github.com/matthewfebbraro  
 **Portfolio:** https://www.aetherpulse.one
@@ -8,10 +8,11 @@
 ---
 
 ## Career Objective
-Software developer specializing in mobile and full‑stack applications. I build intuitive, high‑performance tools that combine clean UX with robust backend logic. Comfortable owning features end‑to‑end: state management, database design, and UI styling. I especially enjoy the hands‑on styling phase—structuring interfaces and polishing layout/typography—then wiring everything to reliable data flows. Creator of BodySync, Fragment, and Daemon.
+Software developer specializing in mobile and full‑stack applications. I build intuitive, high‑performance tools that combine clean UX with robust backend logic. Comfortable owning features end‑to‑end: state management, database design, and UI styling. I especially enjoy the hands‑on styling phase—structuring interfaces and polishing layout/typography—then wiring everything to reliable data flows. Creator of AetherPulse.one Database, Sync.one, and Orbit.one.
 
 ## Technical Skills
-- **Languages:** TypeScript, JavaScript, SQL, HTML, CSS
+- **Languages:** TypeScript, JavaScript, SQL, HTML, CSSF
+- **Learning Languages:** Kotlin
 - **Frontend:** React Native, Expo; comfortable with HTML structure & CSS styling concepts (layout, flexbox, typography, responsive patterns)
 - **Backend:** Node.js, Cloudflare Workers (serverless APIs)
 - **Databases:** Cloudflare D1, SQLite, Firebase *(basic)*
@@ -19,18 +20,14 @@ Software developer specializing in mobile and full‑stack applications. I build
 - **Other:** State management, API integration, data modeling, documentation, accessibility awareness
 
 ## Projects *(active/in progress)*
-### BodySync — Fitness Tracking App
-Feature‑rich health/fitness tracker built in React Native with Cloudflare D1. **Freemium** model: Sync Loop and TDEE calculator are free; paid tier unlocks Nutrition Log, Fitness Tracker, and Daily Tasks. Stripe integration; 42 unlockable theme palettes.
-- *Stack:* React Native, TypeScript, Cloudflare D1, Stripe API
+### ⟐Sync.one — Adaptive Metabolic Inteface App (Fitness Tracker)
+Feature‑rich health/fitness tracker built in React Native with AetherPulse.one Database hosting the backend (My own server). **Freemium** model: Sync Loop and TDEE calculator are free; paid tier unlocks Nutrition Log, Fitness Tracker, and Daily Tasks. Stripe integration; 42 unlockable theme palettes.
+- *Stack:* React Native, TypeScript, AtherPulse.one DB, Stripe API
 - *Role:* Solo developer — architecture, UI, backend, and payments
 
-### Fragment — Notes & Memory App
-Fast, minimal note‑taking app designed for frictionless capture and recall with clean UI and structured organization.
-- *Stack:* React Native, TypeScript, Cloudflare D1
-
-### Daemon — Interactive System with Memory
-An evolving digital entity with long‑term memory, emotional modeling, and structured thought systems. Focus on identity, persistence, and conversation logic. *(Architecture and code selectively private.)*
-- *Stack:* React Native, TypeScript, custom state management, Cloudflare D1
+### ⟐Orbit.one — ⟐Sync.one Sattelite Step Tracker App (offline use, no backend)
+Track steps using android phones built in step tracker. Write to a json file that ⟐Sync.one can access, and automatically input the steps while completing in-app feature: DuskSync. Ease of access, no navigating to and from apps to count and input steps tracked.
+- *Stack:* Kotlin (Android Studio)
 
 ## Professional Experience
 **Customer Support Representative — Internet Service Provider**  
@@ -46,4 +43,7 @@ An evolving digital entity with long‑term memory, emotional modeling, and stru
 ## Notable Achievements
 - Honours graduate (92% average) in Accounting & Payroll
 - Built multiple functional app prototypes independently without formal CS schooling
-- Designed advanced state/memory systems for Daemon (architecture-first approach)
+- Created and currently operate a self-hosted server/database ecosystem for all ⟐Sync.One data
+- Developed ⟐Orbit.One, a satellite step-tracking app integrated with ⟐Sync.One
+- Built a complete fitness-tracking ecosystem while building the fitness that inspired it
+
